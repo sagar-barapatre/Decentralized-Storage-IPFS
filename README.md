@@ -25,7 +25,7 @@ A simple DApp to upload a document to IPFS and then store the IPFS hash on the E
 2. Clone the repository
 
 ```sh
-git clone https://github.com/sagar-barapatre/Decentralize-Storage-IPFS.git
+git clone https://github.com/sagar-barapatre/Decentralized-Storage-IPFS.git
 ```
 
 3. Open the folder in which you cloned the repository.
